@@ -1,0 +1,10 @@
+D:\arrey\arrey\bin\Debug\arrey.exe.config
+D:\arrey\arrey\bin\Debug\arrey.exe
+D:\arrey\arrey\bin\Debug\arrey.pdb
+D:\arrey\arrey\obj\Debug\arrey.csprojAssemblyReference.cache
+D:\arrey\arrey\obj\Debug\arrey.Form1.resources
+D:\arrey\arrey\obj\Debug\arrey.Properties.Resources.resources
+D:\arrey\arrey\obj\Debug\arrey.csproj.GenerateResource.cache
+D:\arrey\arrey\obj\Debug\arrey.csproj.CoreCompileInputs.cache
+D:\arrey\arrey\obj\Debug\arrey.exe
+D:\arrey\arrey\obj\Debug\arrey.pdb
